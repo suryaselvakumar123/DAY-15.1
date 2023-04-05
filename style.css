@@ -1,0 +1,14 @@
+.table, th {
+    color: white;
+    text-align: center;
+    border: 5px solid #444444;
+    background-color: #224466;
+}
+
+.table, td, tr {
+    border: 5px solid #444444;
+    background-color: #F5F5F5;
+    color: #FFA500;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+}
